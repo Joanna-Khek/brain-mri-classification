@@ -18,7 +18,7 @@ Brain MRI Images |  https://www.kaggle.com/datasets/navoneel/brain-mri-images-fo
 
 The dataset is of a modest size, comprising 98 negative examples and 155 positive examples.
 
-Labels | Count
+Label | Count
 --- | ---
 Negative | 98
 Positive | 155
@@ -32,11 +32,11 @@ Positive | 155
 ![images](https://github.com/Joanna-Khek/brain-mri-classification/blob/main/images/architecture.png)
 
 ## Results
-- Overall, the model was able to learn despite only have a small number of samples.
+- Overall, the model was able to learn despite only having a small number of samples.
 
 ![images](https://github.com/Joanna-Khek/brain-mri-classification/blob/main/images/training_loss.png)        
 
-- I found that BatchNorm helped in the overall performance. Although dropout was used, the model was still overfitting.
+- I found that batch normalisation helped in the overall performance. Although dropout was used, the model was still overfitting.
   
 ![images](https://github.com/Joanna-Khek/brain-mri-classification/blob/main/images/accuracy.png)     
 
