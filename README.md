@@ -4,6 +4,11 @@ The project uses various deep learning techniques implemented in **PyTorch.**
 
 The full script can be found in ``src/cnn_model/main.ipynb``
 
+## Getting Started
+1. Clone the repository `git clone https://github.com/Joanna-Khek/brain-mri-classification`
+2. Activate virtual env `poetry shell`
+3. Install dependencies `poetry install`
+   
 ## Dataset
 The dataset used in this project is obtained from Kaggle and consists of a diverse collection of MRI images showcasing various types and stages of brain tumors.
 
