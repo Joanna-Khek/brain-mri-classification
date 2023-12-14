@@ -1,1 +1,2 @@
-# Brain MRI Classification
+# Brain Tumor Detection
+
