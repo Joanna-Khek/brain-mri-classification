@@ -2,6 +2,8 @@
 The goal of this project is to develop a deep learning model for the detection of brain tumors using MRI (Magnetic Resonance Imaging) images. 
 The project uses various deep learning techniques implemented in **PyTorch.**
 
+The full script can be found in ``src/cnn_model/main.ipynb``
+
 ## Dataset
 The dataset used in this project is obtained from Kaggle and consists of a diverse collection of MRI images showcasing various types and stages of brain tumors.
 
