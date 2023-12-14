@@ -26,9 +26,11 @@ Positive | 155
 
 ## Results
 - Overall, the model was able to learn despite only have a small number of samples.
+
 ![images](https://github.com/Joanna-Khek/brain-mri-classification/blob/main/images/training_loss.png)        
 
 - I found that BatchNorm helped in the overall performance. Although dropout was used, the model was still overfitting.
+  
 ![images](https://github.com/Joanna-Khek/brain-mri-classification/blob/main/images/accuracy.png)     
 
 - Here are some of the results
